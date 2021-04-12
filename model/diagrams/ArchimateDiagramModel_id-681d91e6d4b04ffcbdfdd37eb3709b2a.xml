@@ -38,4 +38,28 @@
         width="185"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-07695653b0d649fe8a071254717fa214">
+    <bounds
+        x="498"
+        y="387"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-8afe4777e3224ada966669ce3a02e781.xml#id-8afe4777e3224ada966669ce3a02e781"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cc8e32688c1244c2bd5b8224d740190f">
+    <bounds
+        x="331"
+        y="450"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_id-e755d70ca4b943258a2771fb8db70a56.xml#id-e755d70ca4b943258a2771fb8db70a56"/>
+  </children>
 </archimate:ArchimateDiagramModel>
