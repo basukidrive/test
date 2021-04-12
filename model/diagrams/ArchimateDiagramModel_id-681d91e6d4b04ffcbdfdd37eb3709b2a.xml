@@ -27,4 +27,15 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-a8682babe54340b4accf3b4a7274e2f9.xml#id-a8682babe54340b4accf3b4a7274e2f9"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-820f474c7e024c4ab31c36c93877e926"
+      textAlignment="1"
+      content="tambahan rizky">
+    <bounds
+        x="344"
+        y="137"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
